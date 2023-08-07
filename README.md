@@ -5,19 +5,19 @@
 •	SensorPush iOS Application
 https://github.com/Eddie-Carrizales/SensorPush-IOS-App
 
-•	Tipper-IOS-App
+•	Tipper-iOS-App
 https://github.com/Eddie-Carrizales/Tipper-IOS-App
 
 •	AR Vehicle iOS Scanner Application
 https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App
 
-•	Theater-IOS-App
+•	Theater-iOS-App
 https://github.com/Eddie-Carrizales/Theater-IOS-App
 
-•	Amalger-IOS-App
+•	Amalger-iOS-App
 https://github.com/Eddie-Carrizales/Amalger-IOS-App
 
-•	Aperture-IOS-App
+•	Aperture-iOS-App
 https://github.com/Eddie-Carrizales/Aperture-IOS-App
 
 # Machine Learning (Python)
