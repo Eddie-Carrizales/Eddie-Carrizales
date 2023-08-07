@@ -2,13 +2,13 @@
 
 # iOS Applications
 
-•	SensorPush iOS Application
+•	SensorPush iOS App
 https://github.com/Eddie-Carrizales/SensorPush-IOS-App
 
 •	Tipper-iOS-App
 https://github.com/Eddie-Carrizales/Tipper-IOS-App
 
-•	AR Vehicle iOS Scanner Application
+•	AR Vehicle iOS Scanner App
 https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App
 
 •	Theater-iOS-App
