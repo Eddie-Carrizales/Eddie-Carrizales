@@ -1,6 +1,6 @@
 # Hello there! Below is a compiled list of my projects:
 
-# iOS Applications
+# iOS Applications (Swift)
 
 •	SensorPush iOS App
 https://github.com/Eddie-Carrizales/SensorPush-IOS-App
@@ -37,16 +37,10 @@ https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions
 •	Wine-Quality-ML-Predictions
 https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions
 
-# Python
+# Unity 3D Projects (C#)
 
-•	100-Days-Python-Course
-https://github.com/Eddie-Carrizales/100-Days-Python-Course
-
-•	My-DSA-Coding-Problems
-https://github.com/Eddie-Carrizales/My-DSA-Coding-Problems
-
-•	FIFA-Web-Bot
-https://github.com/Eddie-Carrizales/FIFA-Web-Bot
+•	VR Piano (Private)
+https://github.com/Eddie-Carrizales/VR-Piano
 
 # Java
 
@@ -63,6 +57,17 @@ https://github.com/Eddie-Carrizales/Mini-Java-Projects
 
 •	Mini-Cpp-Projects
 https://github.com/Eddie-Carrizales/Mini-Cpp-Projects
+
+# Python
+
+•	100-Days-Python-Course
+https://github.com/Eddie-Carrizales/100-Days-Python-Course
+
+•	My-DSA-Coding-Problems
+https://github.com/Eddie-Carrizales/My-DSA-Coding-Problems
+
+•	FIFA-Web-Bot
+https://github.com/Eddie-Carrizales/FIFA-Web-Bot
 
 # Other
 
