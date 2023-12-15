@@ -37,7 +37,7 @@ https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions
 •	Wine-Quality-ML-Predictions
 https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions
 
-# Unity 3D Projects (C#)
+# Unity 3D (C#)
 
 •	VR Piano (Private)
 https://github.com/Eddie-Carrizales/VR-Piano
