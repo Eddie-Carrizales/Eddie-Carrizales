@@ -69,7 +69,7 @@ https://github.com/Eddie-Carrizales/My-DSA-Coding-Problems
 •	FIFA-Web-Bot
 https://github.com/Eddie-Carrizales/FIFA-Web-Bot
 
-# Other
+# SQL
 
-•	iVerilog-Team-Projects
-https://github.com/Eddie-Carrizales/iVerilog-Team-Projects
+•	My-SQL-Projects
+https://github.com/Eddie-Carrizales/My-SQL-Projects
