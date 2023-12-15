@@ -8,8 +8,11 @@ https://github.com/Eddie-Carrizales/SensorPush-IOS-App
 •	Tipper-iOS-App
 https://github.com/Eddie-Carrizales/Tipper-IOS-App
 
-•	AR Vehicle iOS Scanner App
+•	AR Vehicle iOS Scanner App (Private)
 https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App
+
+•	xCloud-Cloud Based Storage Solution (Private)
+https://github.com/Eddie-Carrizales/xCloud
 
 •	Theater-iOS-App
 https://github.com/Eddie-Carrizales/Theater-IOS-App
