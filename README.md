@@ -7,23 +7,9 @@ MS CS Student at UT Dallas 👨‍💻
 *   🌍  I'm based in Dallas, Texas
 *   ✉️  You can contact me at [Eddie.Carrizales@outlook.com](mailto:Eddie.Carrizales@outlook.com)
 
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    border: 0;
-    border-spacing: 0;
-  }
-
-  td {
-    border: 0;
-    padding-right: 20px;
-  }
-</style>
-
-<table style="border-collapse: collapse; width: 100%; border: 0; border-spacing: 0;">
+<table style="border-collapse: collapse; width: 100%; border: 1px solid transparent;">
   <tr>
-    <td style="border: 0; padding-right: 20px;">
+    <td style="border: 1px solid transparent; padding-right: 20px;">
 
 #### Skills
 
@@ -37,8 +23,8 @@ MS CS Student at UT Dallas 👨‍💻
 </p>
 
 </td>
-<td style="width: 20px; border: 0;"></td> <!-- Empty cell for spacing -->
-<td style="border: 0;">
+<td style="width: 20px; border: 1px solid transparent;"></td> <!-- Empty cell for spacing -->
+<td style="border: 1px solid transparent;">
 
 #### Socials
 
