@@ -4,9 +4,9 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 MS CS Student at UT Dallas 👨‍💻
 --------------------------------
 
-<div style="display: flex; align-items: center;">
+🌍  I'm based in Dallas, Texas
+✉️  You can contact me at www.linkedin.com/in/eddiecarrizales/
 
-  <div style="margin-right: 20px;">
 
   #### Skills
   
@@ -18,19 +18,6 @@ MS CS Student at UT Dallas 👨‍💻
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="Eddie's GIF" /></a>
   </p>
-
-  </div>
-
-  <div>
-
-#### Socials
-
-  <p align="left" style="margin: 0;">
-    <a href="https://www.linkedin.com/in/eddiecarrizales/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-  </p>
-  </div>
-
-</div>
                     
 A compiled list of some of my projects:
 --------------------------------
