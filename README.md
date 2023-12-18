@@ -7,22 +7,8 @@ MS CS Student at UT Dallas 👨‍💻
 *   🌍  I'm based in Dallas, Texas
 *   ✉️  You can contact me at [Eddie.Carrizales@outlook.com](mailto:Eddie.Carrizales@outlook.com)
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
-
-<table style="border-collapse: collapse; width: 100%; border: 1px solid rgba(0, 0, 0, 0);">
-  <tr>
-    <td style="border: 1px solid rgba(0, 0, 0, 0); padding-right: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div style="flex: 1; padding-right: 20px;">
 
 #### Skills
 
@@ -35,9 +21,9 @@ blockquote {
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="Eddie's GIF" /></a>
 </p>
 
-</td>
-<td style="width: 20px; border: 1px solid rgba(0, 0, 0, 0);"></td> <!-- Empty cell for spacing -->
-<td style="border: 1px solid rgba(0, 0, 0, 0);">
+  </div>
+  <div style="width: 20px;"></div> <!-- Empty space for spacing -->
+  <div style="flex: 1;">
 
 #### Socials
 
@@ -45,9 +31,8 @@ blockquote {
   <a href="https://www.linkedin.com/in/eddiecarrizales/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
 
-</td>
-</tr>
-</table>
+  </div>
+</div>
                     
 A compiled list of some of my projects:
 --------------------------------
