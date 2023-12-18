@@ -4,6 +4,31 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 MS CS Student at UT Dallas 👨‍💻
 --------------------------------
 
+```html
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 20px;">
+
+#### Skills
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+  <!-- Add more skills here -->
+</p>
+
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+
+#### Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/eddiecarrizales/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+  <!-- Add more social links here -->
+</p>
+
+  </div>
+</div>
+
 *   🌍  I'm based in Dallas, Texas
 *   ✉️  You can contact me at [Eddie.Carrizales@outlook.com](mailto:Eddie.Carrizales@outlook.com)
 
