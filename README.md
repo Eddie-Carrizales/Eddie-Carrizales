@@ -7,7 +7,7 @@ MS CS Student at UT Dallas 👨‍💻
 * 🌍 I'm based in Dallas, Texas
 * ✉️ You can contact me on [LinkedIn](https://www.linkedin.com/in/eddiecarrizales/) <a href="https://www.linkedin.com/in/eddiecarrizales/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="12" height="12" alt="LinkedIn" /></a>
 
-  #### Skills
+  ### Skills
   
   <p align="left" style="margin: 0;">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
