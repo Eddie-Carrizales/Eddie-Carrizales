@@ -7,13 +7,13 @@ MS CS Student at UT Dallas 👨‍💻
 *   🌍  I'm based in Dallas, Texas
 *   ✉️  You can contact me at [Eddie.Carrizales@outlook.com](mailto:Eddie.Carrizales@outlook.com)
 
-<table style="border-collapse: collapse !important; width: 100% !important; border: none !important;">
+<table style="border-collapse: collapse; width: 100%; border: 0; border-spacing: 0;">
   <tr>
-    <td style="border: none !important; padding-right: 20px !important;">
+    <td style="border: 0; padding-right: 20px;">
 
 #### Skills
 
-<p align="left" style="margin: 0 !important;">
+<p align="left" style="margin: 0;">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -23,12 +23,12 @@ MS CS Student at UT Dallas 👨‍💻
 </p>
 
 </td>
-<td style="width: 20px !important;"></td> <!-- Empty cell for spacing -->
-<td style="border: none !important;">
+<td style="width: 20px; border: 0;"></td> <!-- Empty cell for spacing -->
+<td style="border: 0;">
 
 #### Socials
 
-<p align="left" style="margin: 0 !important;">
+<p align="left" style="margin: 0;">
   <a href="https://www.linkedin.com/in/eddiecarrizales/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
 
