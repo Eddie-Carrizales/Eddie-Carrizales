@@ -4,7 +4,6 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 MS CS Student at UT Dallas 👨‍💻
 --------------------------------
 
-```html
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 20px;">
 
