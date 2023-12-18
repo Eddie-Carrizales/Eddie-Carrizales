@@ -7,13 +7,13 @@ MS CS Student at UT Dallas 👨‍💻
 *   🌍  I'm based in Dallas, Texas
 *   ✉️  You can contact me at [Eddie.Carrizales@outlook.com](mailto:Eddie.Carrizales@outlook.com)
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse !important; width: 100% !important; border: none !important;">
   <tr>
-    <td style="border: none;">
+    <td style="border: none !important; padding-right: 20px !important;">
 
 #### Skills
 
-<p align="left" style="margin: 0;">
+<p align="left" style="margin: 0 !important;">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -23,12 +23,12 @@ MS CS Student at UT Dallas 👨‍💻
 </p>
 
 </td>
-<td style="width: 20px;"></td> <!-- Empty cell for spacing -->
-<td style="border: none;">
+<td style="width: 20px !important;"></td> <!-- Empty cell for spacing -->
+<td style="border: none !important;">
 
 #### Socials
 
-<p align="left" style="margin: 0;">
+<p align="left" style="margin: 0 !important;">
   <a href="https://www.linkedin.com/in/eddiecarrizales/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
 
@@ -36,7 +36,7 @@ MS CS Student at UT Dallas 👨‍💻
 </tr>
 </table>
                     
-Compiled list of some of my projects:
+A compiled list of some of my projects:
 --------------------------------
 
 ### iOS Applications (Swift)
