@@ -9,7 +9,7 @@ MS CS Student at UT Dallas 👨‍💻
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="padding-right: 20px;">
+    <td>
 
 #### Skills
 
@@ -23,6 +23,7 @@ MS CS Student at UT Dallas 👨‍💻
 </p>
 
 </td>
+<td style="width: 20px;"></td> <!-- Empty cell for spacing -->
 <td>
 
 #### Socials
