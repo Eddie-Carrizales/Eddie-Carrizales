@@ -24,7 +24,7 @@ MS CS Student at UT Dallas 👨‍💻
 
 </td>
 <td style="width: 20px;"></td> <!-- Empty cell for spacing -->
-<td>
+<td style="border: none;">
 
 #### Socials
 
@@ -37,6 +37,7 @@ MS CS Student at UT Dallas 👨‍💻
 </table>
                     
 ### Below is a compiled list of my projects:
+--------------------------------
 
 ### iOS Applications (Swift)
 
