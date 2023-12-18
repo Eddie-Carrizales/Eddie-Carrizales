@@ -7,9 +7,9 @@ MS CS Student at UT Dallas 👨‍💻
 *   🌍  I'm based in Dallas, Texas
 *   ✉️  You can contact me at [Eddie.Carrizales@outlook.com](mailto:Eddie.Carrizales@outlook.com)
 
-<table style="border-collapse: collapse; width: 100%; border: 0;">
+<table style="border-collapse: collapse; width: 100%; border: none;">
   <tr>
-    <td>
+    <td style="border: none; padding-right: 20px;">
 
 #### Skills
 
