@@ -4,11 +4,14 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 MS CS Student at UT Dallas 👨‍💻
 --------------------------------
 
-*   🌍  I'm based in Dallas, Texas
-*   ✉️  You can contact me at [Eddie.Carrizales@outlook.com](mailto:Eddie.Carrizales@outlook.com)
+#### Socials
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div style="flex: 1; padding-right: 20px;">
+<p align="left" style="margin: 0;">
+  <a href="https://www.linkedin.com/in/eddiecarrizales/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+</p>
+
+  </div>
+</div>
 
 #### Skills
 
@@ -24,15 +27,6 @@ MS CS Student at UT Dallas 👨‍💻
   </div>
   <div style="width: 20px;"></div> <!-- Empty space for spacing -->
   <div style="flex: 1;">
-
-#### Socials
-
-<p align="left" style="margin: 0;">
-  <a href="https://www.linkedin.com/in/eddiecarrizales/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-</p>
-
-  </div>
-</div>
                     
 A compiled list of some of my projects:
 --------------------------------
