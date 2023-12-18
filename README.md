@@ -4,9 +4,8 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 MS CS Student at UT Dallas 👨‍💻
 --------------------------------
 
-🌍  I'm based in Dallas, Texas
-✉️  You can contact me at www.linkedin.com/in/eddiecarrizales/
-
+* 🌍 I'm based in Dallas, Texas
+* ✉️ You can contact me on [Linkedin](https://www.linkedin.com/in/eddiecarrizales/) [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/eddiecarrizales/)
 
   #### Skills
   
