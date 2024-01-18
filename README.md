@@ -30,10 +30,10 @@ https://github.com/Eddie-Carrizales/SensorPush-IOS-App
 •	Tipper-iOS-App
 https://github.com/Eddie-Carrizales/Tipper-IOS-App
 
-•	AR Vehicle iOS Scanner App (Private)
+•	AR Vehicle iOS Scanner App (Currently Private)
 https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App
 
-•	xCloud-Cloud Based Storage Solution (Private)
+•	xCloud-Cloud Based Storage Solution (Currently Private)
 https://github.com/Eddie-Carrizales/xCloud
 
 •	Theater-iOS-App
@@ -61,7 +61,7 @@ https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions
 
 ### Unity 3D (C#)
 
-•	VR Piano (Private)
+•	VR Piano (Currently Private)
 https://github.com/Eddie-Carrizales/VR-Piano
 
 ### Java 
