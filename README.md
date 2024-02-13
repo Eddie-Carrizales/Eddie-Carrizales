@@ -61,7 +61,7 @@ https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions
 
 ### Statistical Methods for Data Science (Python and R)
 •	Monte Carlo Methods
-https://github.com/Eddie-Carrizales/
+https://github.com/Eddie-Carrizales/Monte-Carlo-Methods
 
 •	Population Parameters and Statistics, and Graphical Statistics
 https://github.com/Eddie-Carrizales/
