@@ -54,7 +54,7 @@ https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions
 https://github.com/Eddie-Carrizales/Car-MPG-Predictions
 
 •	Tweet-Clustering-Using-K-Means
-https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions
+https://github.com/Eddie-Carrizales/Tweet-Clustering-Using-K-Means
 
 •	Wine-Quality-ML-Predictions
 https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions
