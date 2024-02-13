@@ -64,7 +64,7 @@ https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions
 https://github.com/Eddie-Carrizales/Monte-Carlo-Methods
 
 •	Population Parameters and Statistics, and Graphical Statistics
-https://github.com/Eddie-Carrizales/
+https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics
 
 •	Statistical Inferences and Hypothesis Testing
 https://github.com/Eddie-Carrizales/
