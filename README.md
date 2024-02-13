@@ -59,6 +59,22 @@ https://github.com/Eddie-Carrizales/Tweet-Clustering-Using-K-Means
 •	Wine-Quality-ML-Predictions
 https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions
 
+### Statistical Methods for Data Science (Python and R)
+•	Monte Carlo Methods
+https://github.com/Eddie-Carrizales/
+
+•	Population Parameters and Statistics, and Graphical Statistics
+https://github.com/Eddie-Carrizales/
+
+•	Statistical Inferences and Hypothesis Testing
+https://github.com/Eddie-Carrizales/
+
+•	Bayesian Inference and Hypothesis, Bootstrap, and Statistical tests
+https://github.com/Eddie-Carrizales/
+
+•	Linear and Multivariate Regression and Univariate ANOVA
+https://github.com/Eddie-Carrizales/
+
 ### Unity 3D (C#)
 
 •	VR Piano (Currently Private)
