@@ -22,77 +22,84 @@ These are my skills and a compiled list of some of my projects:
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 </p>
 
-<table> style="width: 100%;">
+
+### iOS Applications (Swift)
+<table>
   <tr>
-    <td> testinghere <a href="https://example.com">Link 1</a></td>
-    <td> testinghere <a href="https://example.com">Link 2</a></td>
-    <td> testinghere <a href="https://example.com">Link 4</a></td>
+    <td> • SensorPush iOS App <a href="https://github.com/Eddie-Carrizales/SensorPush-IOS-App">(Link)</a></td>
+    <td> • Tipper-iOS-App <a href="https://github.com/Eddie-Carrizales/Tipper-IOS-App">(Link)</a></td>
+    <td> • AR Vehicle iOS Scanner App <a href="https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App">(Currently Private)</a></td>
   </tr>
   <tr>
-    <td> testinghere <a href="https://example.com">Link 3</a></td>
-    <td> testinghere <a href="https://example.com">Link 4</a></td>
-    <td> testinghere <a href="https://example.com">Link 4</a></td>
+    <td> • xCloud-Cloud Based Storage Solution <a href="https://github.com/Eddie-Carrizales/xCloud">(Currently Private)</a></td>
+    <td> • Theater-iOS-App <a href="https://github.com/Eddie-Carrizales/Theater-IOS-App">(Link)</a></td>
+    <td> • Amalger-iOS-App <a href="https://github.com/Eddie-Carrizales/Amalger-IOS-App">(Link)</a></td>
   </tr>
     <tr>
-    <td> testinghere <a href="https://example.com">Link 3</a></td>
-    <td> testinghere <a href="https://example.com">Link 4</a></td>
+    <td> • Aperture-iOS-App <a href="https://github.com/Eddie-Carrizales/Aperture-IOS-App">(Link)</a></td>
   </tr>
 </table>
 
-
-### iOS Applications (Swift)
-
-•	SensorPush iOS App  ([Link](https://github.com/Eddie-Carrizales/SensorPush-IOS-App))  •	Tipper-iOS-App ([Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App))  •	AR Vehicle iOS Scanner App ([Currently Private](https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App))
-
-•	xCloud-Cloud Based Storage Solution ([Currently Private](https://github.com/Eddie-Carrizales/xCloud))  •	Theater-iOS-App ([Link](https://github.com/Eddie-Carrizales/Theater-IOS-App))  •	Amalger-iOS-App ([Link](https://github.com/Eddie-Carrizales/Amalger-IOS-App))
-
-•	Aperture-iOS-App ([Link](https://github.com/Eddie-Carrizales/Aperture-IOS-App))
-
 ### Machine Learning (Python)
-
-•	Neural-Network-Activation-Functions ([Link](https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions))
-
-•	Car-MPG-Predictions ([Link](https://github.com/Eddie-Carrizales/Car-MPG-Predictions))
-
-•	Tweet-Clustering-Using-K-Means ([Link](https://github.com/Eddie-Carrizales/Tweet-Clustering-Using-K-Means))
-
-•	Wine-Quality-ML-Predictions ([Link](https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions))
+<table>
+  <tr>
+    <td> •	Neural-Network-Activation-Functions <a href="https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions">(Link)</a></td>
+    <td> •	Car-MPG-Predictions <a href="https://github.com/Eddie-Carrizales/Car-MPG-Predictions">(Link)</a></td>
+    <td> •	Tweet-Clustering-Using-K-Means <a href="https://github.com/Eddie-Carrizales/Tweet-Clustering-Using-K-Means">(Link)</a></td>
+  </tr>
+  <tr>
+    <td> •	Wine-Quality-ML-Predictions <a href="https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions">(Link)</a></td>
+  </tr>
+</table>
 
 ### Statistical Methods for Data Science (Python and R)
-•	Monte Carlo Methods ([Link](https://github.com/Eddie-Carrizales/Monte-Carlo-Methods))
-
-•	Population Parameters and Statistics, and Graphical Statistics ([Link](https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics))
-
-•	Statistical Inferences and Hypothesis Testing ([Link](https://github.com/Eddie-Carrizales/))
-
-•	Bayesian Inference and Hypothesis, Bootstrap, and Statistical tests ([Link](https://github.com/Eddie-Carrizales/))
-
-•	Linear and Multivariate Regression and Univariate ANOVA ([Link](https://github.com/Eddie-Carrizales/))
+<table>
+  <tr>
+    <td> • Monte Carlo Methods <a href="https://github.com/Eddie-Carrizales/Monte-Carlo-Methods">(Link)</a></td>
+    <td> • Population Parameters and Statistics, and Graphical Statistics <a href="https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics">(Link)</a></td>
+    <td> • Statistical Inferences and Hypothesis Testing <a href="">(Link)</a></td>
+  </tr>
+  <tr>
+    <td> • Bayesian Inference and Hypothesis, Bootstrap, and Statistical tests <a href="https://github.com/Eddie-Carrizales/">(Link)</a></td>
+    <td> • Linear and Multivariate Regression and Univariate ANOVA <a href="https://github.com/Eddie-Carrizales/">(Link)</a></td>
+  </tr>
+</table>
 
 ### Unity 3D (C#)
-
-•	VR Piano ([Currently Private](https://github.com/Eddie-Carrizales/VR-Piano))
+<table>
+  <tr>
+    <td> • Mid-Air VR Piano <a href="https://github.com/Eddie-Carrizales/VR-Piano">(Currently Private)</a></td>
+  </tr>
+</table>
 
 ### Java 
-
-•	Centralized Math Server ([Link](https://github.com/Eddie-Carrizales/Centralized-Math-Server))
-
-•	Threads-and-Semaphores-DMV-Simulation ([Link](https://github.com/Eddie-Carrizales/Threads-and-Semaphores-DMV-Simulation))
-
-•	Mini-Java-Projects ([Link](https://github.com/Eddie-Carrizales/Mini-Java-Projects))
+<table>
+  <tr>
+    <td> • Centralized Math Server <a href="https://github.com/Eddie-Carrizales/Centralized-Math-Server">(Link)</a></td>
+    <td> • Threads-and-Semaphores-DMV-Simulation <a href="https://github.com/Eddie-Carrizales/Threads-and-Semaphores-DMV-Simulation">(Link)</a></td>
+    <td> • Mini-Java-Projects <a href="https://github.com/Eddie-Carrizales/Mini-Java-Projects">(Link)</a></td>
+  </tr>
+</table>
 
 ### C++ 
+<table>
+  <tr>
+    <td> • Mini-Cpp-Projects <a href="https://github.com/Eddie-Carrizales/Mini-Cpp-Projects">(Link)</a></td>
+  </tr>
+</table>
 
-•	Mini-Cpp-Projects ([Link](https://github.com/Eddie-Carrizales/Mini-Cpp-Projects))
-
-### Python 
-
-•	100-Days-Python-Course ([Link](https://github.com/Eddie-Carrizales/100-Days-Python-Course))
-
-•	My-DSA-Coding-Problems ([Link](https://github.com/Eddie-Carrizales/My-DSA-Coding-Problems))
-
-•	FIFA-Web-Bot ([Link](https://github.com/Eddie-Carrizales/FIFA-Web-Bot))
+### Python
+<table>
+  <tr>
+    <td> • 100-Days-Python-Course <a href="https://github.com/Eddie-Carrizales/100-Days-Python-Course">(Link)</a></td>
+    <td> • My-DSA-Coding-Problems <a href="https://github.com/Eddie-Carrizales/My-DSA-Coding-Problems">(Link)</a></td>
+    <td> • FIFA-Web-Bot <a href="https://github.com/Eddie-Carrizales/FIFA-Web-Bot">(Link)</a></td>
+  </tr>
+</table>
 
 ### SQL
-
-•	My-SQL-Projects ([Link](https://github.com/Eddie-Carrizales/My-SQL-Projects))
+<table>
+  <tr>
+    <td> • My-SQL-Projects <a href="https://github.com/Eddie-Carrizales/My-SQL-Projects">(Link)</a></td>
+  </tr>
+</table>
