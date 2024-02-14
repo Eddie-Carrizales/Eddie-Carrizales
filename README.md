@@ -22,6 +22,18 @@ These are my skills and a compiled list of some of my projects:
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 </p>
 
+<table>
+  <tr>
+    <td>Column 1</td>
+    <td>Column 2</td>
+  </tr>
+  <tr>
+    <td>•	SensorPush iOS App  ([Link](https://github.com/Eddie-Carrizales/SensorPush-IOS-App))</td>
+    <td>•	Tipper-iOS-App ([Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App))</td>
+  </tr>
+</table>
+
+
 ### iOS Applications (Swift)
 
 •	SensorPush iOS App  ([Link](https://github.com/Eddie-Carrizales/SensorPush-IOS-App))  •	Tipper-iOS-App ([Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App))  •	AR Vehicle iOS Scanner App ([Currently Private](https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App))
