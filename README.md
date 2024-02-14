@@ -22,7 +22,7 @@ These are my skills and a compiled list of some of my projects:
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 </p>
 
-<table>
+<table> style="width: 100%;">
   <tr>
     <td> testinghere <a href="https://example.com">Link 1</a></td>
     <td> testinghere <a href="https://example.com">Link 2</a></td>
