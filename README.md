@@ -24,12 +24,9 @@ These are my skills and a compiled list of some of my projects:
 
 <table>
   <tr>
-    <td>Column 1</td>
-    <td>Column 2</td>
-  </tr>
-  <tr>
     <td> •	SensorPush iOS App  <a href="https://example.com">Link 1</a> </td>
-    <td> •	Tipper-iOS-App ([Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App)) </td>
+    <td> •	Tipper-iOS-App <a href="https://example.com">Link 1</a> </td>
+    <td> •	Tipper-iOS-App <a href="https://example.com">Link 1</a> </td>
   </tr>
 </table>
 
