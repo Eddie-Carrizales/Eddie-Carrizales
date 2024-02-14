@@ -28,8 +28,8 @@ These are my skills and a compiled list of some of my projects:
     <td>Column 2</td>
   </tr>
   <tr>
-    <td>•	SensorPush iOS App  ([Link](https://github.com/Eddie-Carrizales/SensorPush-IOS-App))</td>
-    <td>•	Tipper-iOS-App ([Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App))</td>
+    <td> •	SensorPush iOS App  <a href="https://example.com">Link 1</a> </td>
+    <td> •	Tipper-iOS-App ([Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App)) </td>
   </tr>
 </table>
 
