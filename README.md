@@ -22,6 +22,40 @@ These are my skills and a compiled list of some of my projects:
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 </p>
 
+
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 0 10px;">
+        Content in column 1
+        ### iOS Applications (Swift)
+  
+  •	SensorPush iOS App  ([Link](https://github.com/Eddie-Carrizales/SensorPush-IOS-App))
+  
+  •	Tipper-iOS-App ([Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App))
+  
+  •	AR Vehicle iOS Scanner App ([Currently Private](https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App))
+  
+  •	xCloud-Cloud Based Storage Solution ([Currently Private](https://github.com/Eddie-Carrizales/xCloud))
+  
+  •	Theater-iOS-App ([Link](https://github.com/Eddie-Carrizales/Theater-IOS-App))
+  
+  •	Amalger-iOS-App ([Link](https://github.com/Eddie-Carrizales/Amalger-IOS-App))
+  
+  •	Aperture-iOS-App ([Link](https://github.com/Eddie-Carrizales/Aperture-IOS-App))
+    </div>
+    <div style="flex: 50%; padding: 0 10px;">
+        Content in column 2
+        ### Machine Learning (Python)
+
+•	Neural-Network-Activation-Functions ([Link](https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions))
+
+•	Car-MPG-Predictions ([Link](https://github.com/Eddie-Carrizales/Car-MPG-Predictions))
+
+•	Tweet-Clustering-Using-K-Means ([Link](https://github.com/Eddie-Carrizales/Tweet-Clustering-Using-K-Means))
+
+•	Wine-Quality-ML-Predictions ([Link](https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions))
+    </div>
+</div>
+
 ### iOS Applications (Swift)
 
 •	SensorPush iOS App  ([Link](https://github.com/Eddie-Carrizales/SensorPush-IOS-App))
