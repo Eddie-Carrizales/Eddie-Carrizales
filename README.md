@@ -26,87 +26,63 @@ These are my skills and a compiled list of some of my projects:
 
 •	SensorPush iOS App  ([Link](https://github.com/Eddie-Carrizales/SensorPush-IOS-App))
 
-•	Tipper-iOS-App
-https://github.com/Eddie-Carrizales/Tipper-IOS-App
+•	Tipper-iOS-App ([Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App))
 
-•	AR Vehicle iOS Scanner App (Currently Private)
-https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App
+•	AR Vehicle iOS Scanner App ([Currently Private](https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App))
 
-•	xCloud-Cloud Based Storage Solution (Currently Private)
-https://github.com/Eddie-Carrizales/xCloud
+•	xCloud-Cloud Based Storage Solution ([Currently Private](https://github.com/Eddie-Carrizales/xCloud))
 
-•	Theater-iOS-App
-https://github.com/Eddie-Carrizales/Theater-IOS-App
+•	Theater-iOS-App ([Link](https://github.com/Eddie-Carrizales/Theater-IOS-App))
 
-•	Amalger-iOS-App
-https://github.com/Eddie-Carrizales/Amalger-IOS-App
+•	Amalger-iOS-App ([Link](https://github.com/Eddie-Carrizales/Amalger-IOS-App))
 
-•	Aperture-iOS-App
-https://github.com/Eddie-Carrizales/Aperture-IOS-App
+•	Aperture-iOS-App ([Link](https://github.com/Eddie-Carrizales/Aperture-IOS-App))
 
 ### Machine Learning (Python)
 
-•	Neural-Network-Activation-Functions
-https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions
+•	Neural-Network-Activation-Functions ([Link](https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions))
 
-•	Car-MPG-Predictions
-https://github.com/Eddie-Carrizales/Car-MPG-Predictions
+•	Car-MPG-Predictions ([Link](https://github.com/Eddie-Carrizales/Car-MPG-Predictions))
 
-•	Tweet-Clustering-Using-K-Means
-https://github.com/Eddie-Carrizales/Tweet-Clustering-Using-K-Means
+•	Tweet-Clustering-Using-K-Means ([Link](https://github.com/Eddie-Carrizales/Tweet-Clustering-Using-K-Means))
 
-•	Wine-Quality-ML-Predictions
-https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions
+•	Wine-Quality-ML-Predictions ([Link](https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions))
 
 ### Statistical Methods for Data Science (Python and R)
-•	Monte Carlo Methods
-https://github.com/Eddie-Carrizales/Monte-Carlo-Methods
+•	Monte Carlo Methods ([Link](https://github.com/Eddie-Carrizales/Monte-Carlo-Methods))
 
-•	Population Parameters and Statistics, and Graphical Statistics
-https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics
+•	Population Parameters and Statistics, and Graphical Statistics ([Link](https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics))
 
-•	Statistical Inferences and Hypothesis Testing
-https://github.com/Eddie-Carrizales/
+•	Statistical Inferences and Hypothesis Testing ([Link](https://github.com/Eddie-Carrizales/))
 
-•	Bayesian Inference and Hypothesis, Bootstrap, and Statistical tests
-https://github.com/Eddie-Carrizales/
+•	Bayesian Inference and Hypothesis, Bootstrap, and Statistical tests ([Link](https://github.com/Eddie-Carrizales/))
 
-•	Linear and Multivariate Regression and Univariate ANOVA
-https://github.com/Eddie-Carrizales/
+•	Linear and Multivariate Regression and Univariate ANOVA ([Link](https://github.com/Eddie-Carrizales/))
 
 ### Unity 3D (C#)
 
-•	VR Piano (Currently Private)
-https://github.com/Eddie-Carrizales/VR-Piano
+•	VR Piano ([Currently Private](https://github.com/Eddie-Carrizales/VR-Piano))
 
 ### Java 
 
-•	Centralized Math Server
-https://github.com/Eddie-Carrizales/Centralized-Math-Server
+•	Centralized Math Server ([Link](https://github.com/Eddie-Carrizales/Centralized-Math-Server))
 
-•	Threads-and-Semaphores-DMV-Simulation
-https://github.com/Eddie-Carrizales/Threads-and-Semaphores-DMV-Simulation
+•	Threads-and-Semaphores-DMV-Simulation ([Link](https://github.com/Eddie-Carrizales/Threads-and-Semaphores-DMV-Simulation))
 
-•	Mini-Java-Projects
-https://github.com/Eddie-Carrizales/Mini-Java-Projects
+•	Mini-Java-Projects ([Link](https://github.com/Eddie-Carrizales/Mini-Java-Projects))
 
 ### C++ 
 
-•	Mini-Cpp-Projects
-https://github.com/Eddie-Carrizales/Mini-Cpp-Projects
+•	Mini-Cpp-Projects ([Link](https://github.com/Eddie-Carrizales/Mini-Cpp-Projects))
 
 ### Python 
 
-•	100-Days-Python-Course
-https://github.com/Eddie-Carrizales/100-Days-Python-Course
+•	100-Days-Python-Course ([Link](https://github.com/Eddie-Carrizales/100-Days-Python-Course))
 
-•	My-DSA-Coding-Problems
-https://github.com/Eddie-Carrizales/My-DSA-Coding-Problems
+•	My-DSA-Coding-Problems ([Link](https://github.com/Eddie-Carrizales/My-DSA-Coding-Problems))
 
-•	FIFA-Web-Bot
-https://github.com/Eddie-Carrizales/FIFA-Web-Bot
+•	FIFA-Web-Bot ([Link](https://github.com/Eddie-Carrizales/FIFA-Web-Bot))
 
 ### SQL
 
-•	My-SQL-Projects
-https://github.com/Eddie-Carrizales/My-SQL-Projects
+•	My-SQL-Projects ([Link](https://github.com/Eddie-Carrizales/My-SQL-Projects))
