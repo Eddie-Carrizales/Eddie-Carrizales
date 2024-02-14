@@ -24,9 +24,18 @@ These are my skills and a compiled list of some of my projects:
 
 <table>
   <tr>
-    <td> •	SensorPush iOS App  <a href="https://example.com">Link 1</a> </td>
-    <td> •	Tipper-iOS-App <a href="https://example.com">Link 1</a> </td>
-    <td> •	Tipper-iOS-App <a href="https://example.com">Link 1</a> </td>
+    <td> testinghere <a href="https://example.com">Link 1</a></td>
+    <td> testinghere <a href="https://example.com">Link 2</a></td>
+    <td> testinghere <a href="https://example.com">Link 4</a></td>
+  </tr>
+  <tr>
+    <td> testinghere <a href="https://example.com">Link 3</a></td>
+    <td> testinghere <a href="https://example.com">Link 4</a></td>
+    <td> testinghere <a href="https://example.com">Link 4</a></td>
+  </tr>
+    <tr>
+    <td> testinghere <a href="https://example.com">Link 3</a></td>
+    <td> testinghere <a href="https://example.com">Link 4</a></td>
   </tr>
 </table>
 
