@@ -24,17 +24,9 @@ These are my skills and a compiled list of some of my projects:
 
 ### iOS Applications (Swift)
 
-•	SensorPush iOS App  ([Link](https://github.com/Eddie-Carrizales/SensorPush-IOS-App))
+•	SensorPush iOS App  ([Link](https://github.com/Eddie-Carrizales/SensorPush-IOS-App))  •	Tipper-iOS-App ([Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App))  •	AR Vehicle iOS Scanner App ([Currently Private](https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App))
 
-•	Tipper-iOS-App ([Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App))
-
-•	AR Vehicle iOS Scanner App ([Currently Private](https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App))
-
-•	xCloud-Cloud Based Storage Solution ([Currently Private](https://github.com/Eddie-Carrizales/xCloud))
-
-•	Theater-iOS-App ([Link](https://github.com/Eddie-Carrizales/Theater-IOS-App))
-
-•	Amalger-iOS-App ([Link](https://github.com/Eddie-Carrizales/Amalger-IOS-App))
+•	xCloud-Cloud Based Storage Solution ([Currently Private](https://github.com/Eddie-Carrizales/xCloud))  •	Theater-iOS-App ([Link](https://github.com/Eddie-Carrizales/Theater-IOS-App))  •	Amalger-iOS-App ([Link](https://github.com/Eddie-Carrizales/Amalger-IOS-App))
 
 •	Aperture-iOS-App ([Link](https://github.com/Eddie-Carrizales/Aperture-IOS-App))
 
