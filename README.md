@@ -52,7 +52,7 @@ These are my skills and a compiled list of some of my projects:
   <tr>
     <td valign="top" width="50%">
 
-### Statistical Methods for Data Science (Python and R)
+### Statistical Methods for Data Science (Python & R)
 
 - Monte Carlo Methods [Link](https://github.com/Eddie-Carrizales/Monte-Carlo-Methods)
 - Population Parameters, Statistics, and Graphical Statistics [Link](https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics)
