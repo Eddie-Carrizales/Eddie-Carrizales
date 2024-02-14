@@ -23,13 +23,11 @@ These are my skills and a compiled list of some of my projects:
 </p>
 
 
-### Projects
-
 <table>
   <tr>
     <td valign="top" width="50%">
 
-#### iOS Applications (Swift)
+### iOS Applications (Swift)
 
 - SensorPush iOS App [Link](https://github.com/Eddie-Carrizales/SensorPush-IOS-App)
 - Tipper-iOS-App [Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App)
@@ -42,7 +40,7 @@ These are my skills and a compiled list of some of my projects:
     </td>
     <td valign="top" width="50%">
 
-#### Machine Learning (Python)
+### Machine Learning (Python)
 
 - Neural-Network-Activation-Functions [Link](https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions)
 - Car-MPG-Predictions [Link](https://github.com/Eddie-Carrizales/Car-MPG-Predictions)
@@ -54,7 +52,7 @@ These are my skills and a compiled list of some of my projects:
   <tr>
     <td valign="top" width="50%">
 
-#### Statistical Methods for Data Science (Python and R)
+### Statistical Methods for Data Science (Python and R)
 
 - Monte Carlo Methods [Link](https://github.com/Eddie-Carrizales/Monte-Carlo-Methods)
 - Population Parameters, Statistics, and Graphical Statistics [Link](https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics)
@@ -64,7 +62,7 @@ These are my skills and a compiled list of some of my projects:
     </td>
     <td valign="top" width="50%">
 
-#### Java
+### Java
 
 - Centralized Math Server [Link](https://github.com/Eddie-Carrizales/Centralized-Math-Server)
 - Threads and Semaphores DMV Simulation [Link](https://github.com/Eddie-Carrizales/Threads-and-Semaphores-DMV-Simulation)
@@ -75,7 +73,7 @@ These are my skills and a compiled list of some of my projects:
   <tr>
     <td valign="top" width="50%">
 
-#### Python
+### Python
 
 - 100-Days-Python-Course [Link](https://github.com/Eddie-Carrizales/100-Days-Python-Course)
 - My-DSA-Coding-Problems [Link](https://github.com/Eddie-Carrizales/My-DSA-Coding-Problems)
@@ -84,7 +82,7 @@ These are my skills and a compiled list of some of my projects:
     </td>
     <td valign="top" width="50%">
 
-#### C++
+### C++
 
 - Mini-Cpp-Projects [Link](https://github.com/Eddie-Carrizales/Mini-Cpp-Projects)
 
@@ -93,14 +91,14 @@ These are my skills and a compiled list of some of my projects:
   <tr>
     <td valign="top" width="50%">
 
-#### Unity 3D (C#)
+### Unity 3D (C#)
 
 - Mid-Air VR Piano ([Currently Private](https://github.com/Eddie-Carrizales/))
 
     </td>
     <td valign="top" width="50%">
 
-#### SQL
+### SQL
 
 - My-SQL-Projects [Link](https://github.com/Eddie-Carrizales/My-SQL-Projects)
 
