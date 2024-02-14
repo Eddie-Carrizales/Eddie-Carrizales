@@ -67,7 +67,7 @@ These are my skills and a compiled list of some of my projects:
 
 - Centralized Math Server [Link](https://github.com/Eddie-Carrizales/Centralized-Math-Server)
 - Threads and Semaphores DMV Simulation [Link](https://github.com/Eddie-Carrizales/Threads-and-Semaphores-DMV-Simulation)
-- Mini-Java-Projects [Link](https://github.com/Eddie-Carrizales/Mini-Java-Projects)
+- Mini Java Projects [Link](https://github.com/Eddie-Carrizales/Mini-Java-Projects)
 
     </td>
   </tr>
@@ -76,16 +76,16 @@ These are my skills and a compiled list of some of my projects:
 
 ### Python
 
-- 100-Days-Python-Course [Link](https://github.com/Eddie-Carrizales/100-Days-Python-Course)
-- My-DSA-Coding-Problems [Link](https://github.com/Eddie-Carrizales/My-DSA-Coding-Problems)
-- FIFA-Web-Bot [Link](https://github.com/Eddie-Carrizales/FIFA-Web-Bot)
+- 100 Days Python Course [Link](https://github.com/Eddie-Carrizales/100-Days-Python-Course)
+- My DSA Coding Problems [Link](https://github.com/Eddie-Carrizales/My-DSA-Coding-Problems)
+- FIFA Web Bot [Link](https://github.com/Eddie-Carrizales/FIFA-Web-Bot)
 
     </td>
     <td valign="top" width="50%">
 
 ### C++
 
-- Mini-Cpp-Projects [Link](https://github.com/Eddie-Carrizales/Mini-Cpp-Projects)
+- Mini Cpp Projects [Link](https://github.com/Eddie-Carrizales/Mini-Cpp-Projects)
 
     </td>
   </tr>
@@ -101,7 +101,7 @@ These are my skills and a compiled list of some of my projects:
 
 ### SQL
 
-- My-SQL-Projects [Link](https://github.com/Eddie-Carrizales/My-SQL-Projects)
+- My SQL Projects [Link](https://github.com/Eddie-Carrizales/My-SQL-Projects)
 
     </td>
   </tr>
