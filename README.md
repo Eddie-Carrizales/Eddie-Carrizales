@@ -31,7 +31,7 @@ These are my skills and a compiled list of some of my projects:
 
 - SensorPush iOS App [Link](https://github.com/Eddie-Carrizales/SensorPush-IOS-App)
 - Tipper iOS App [Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App)
-- xCloud Storage App with Content Classification ([Currently Private](https://github.com/Eddie-Carrizales/xCloud))
+- xCloud Storage Based App with Content <br /> Classification ([Currently Private](https://github.com/Eddie-Carrizales/xCloud))
 - Theater iOS App [Link](https://github.com/Eddie-Carrizales/Theater-IOS-App)
 - Amalger iOS App [Link](https://github.com/Eddie-Carrizales/Amalger-IOS-App)
 - Aperture iOS App [Link](https://github.com/Eddie-Carrizales/Aperture-IOS-App)
