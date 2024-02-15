@@ -31,8 +31,7 @@ These are my skills and a compiled list of some of my projects:
 
 - SensorPush iOS App [Link](https://github.com/Eddie-Carrizales/SensorPush-IOS-App)
 - Tipper iOS App [Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App)
-- AR Vehicle iOS Scanner App ([Currently Private](https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App))
-- xCloud Cloud Based Storage Solution ([Currently Private](https://github.com/Eddie-Carrizales/xCloud))
+- xCloud Storage App with Content Classification ([Currently Private](https://github.com/Eddie-Carrizales/xCloud))
 - Theater iOS App [Link](https://github.com/Eddie-Carrizales/Theater-IOS-App)
 - Amalger iOS App [Link](https://github.com/Eddie-Carrizales/Amalger-IOS-App)
 - Aperture iOS App [Link](https://github.com/Eddie-Carrizales/Aperture-IOS-App)
@@ -42,9 +41,10 @@ These are my skills and a compiled list of some of my projects:
 
 ### Machine Learning (Python)
 
+- Vehicle Market Price Predictor App ([Currently Private](https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App))
 - Neural Network Activation Functions [Link](https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions)
 - Car MPG Predictions [Link](https://github.com/Eddie-Carrizales/Car-MPG-Predictions)
-- Tweet Clustering Using K Means [Link](https://github.com/Eddie-Carrizales/Tweet-Clustering-Using-K-Means)
+- K-means Clustering for Tweet Analysis [Link](https://github.com/Eddie-Carrizales/Tweet-Clustering-Using-K-Means)
 - Wine Quality ML Predictions [Link](https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions)
 
     </td>
