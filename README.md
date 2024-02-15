@@ -57,8 +57,8 @@ These are my skills and a compiled list of some of my projects:
 - Monte Carlo Methods [Link](https://github.com/Eddie-Carrizales/Monte-Carlo-Methods)
 - Population Parameters, Statistics, and Graphical Statistics [Link](https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics)
 - Statistical Inferences and Hypothesis Testing [Link](https://github.com/Eddie-Carrizales/Statistical-Inferences-and-Hypothesis-Testing)
-- Bayesian Inference and Hypothesis, Bootstrap, and Statistical tests
-- Linear and Multivariate Regression, and Univariate ANOVA
+- Bayesian Inference and Hypothesis, Bootstrap, and Statistical tests [Link](https://github.com/Eddie-Carrizales/Bayesian-Inference-and-Hypothesis-Bootstrap-and-Statistical-tests)
+- Linear and Multivariate Regression, and Univariate ANOVA  [Link]()
 
     </td>
     <td valign="top" width="50%">
