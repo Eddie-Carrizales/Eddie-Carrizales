@@ -71,7 +71,7 @@ These are my skills and a compiled list of some of my projects:
 - Search Engine for Movies Summaries Using TF-IDF [Link]()
 - Friend Recommendations Using Mutual Friends [Link]()
 - Naive Bayes Classifier Using Spark MapReduce [Link]()
-- Real-Time Structured Streaming and Visualization from Reddit [Link]()
+- Real-Time Data Streaming and Visualization from Reddit [Link]()
 - Social Network Analytics Using GraphX/GraphFrame [Link]()
 - Recurrent Neural Network from Scratch Using MapReduce [Link]()
 
@@ -84,7 +84,7 @@ These are my skills and a compiled list of some of my projects:
 
 - HomeMark: VR Multiplayer Movie Theater [Link]()
 - Mid-Air VR Piano Using Meta Quest ([Currently Private](https://github.com/Eddie-Carrizales/))
-- Implementing Travel, Manipulation, & System Control in VR [Link]()
+- Implementing Travel, Manipulation, and System Control in VR [Link]()
 
     </td>
     <td valign="top" width="50%">
