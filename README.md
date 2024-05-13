@@ -65,10 +65,10 @@ These are my skills and a compiled list of some of my projects:
     </td>
     <td valign="top" width="50%">
 
-### Big Data Projects (PySpark & MapReduce)
+### Big Data (PySpark & MapReduce)
 
 - Search Engine for Movies Summaries Using TF-IDF [Link]()
-- Real-Time Data Streaming and Visualization from Reddit [Link]()
+- Real-Time Data Streaming and Visualization <br /> from Reddit [Link]()
 - Friend Recommendations Using Mutual Friends [Link]()
 - Naive Bayes Classifier Using Spark MapReduce [Link]()
 - Social Network Analytics Using GraphX/GraphFrame [Link]()
