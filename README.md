@@ -41,11 +41,13 @@ These are my skills and a compiled list of some of my projects:
 
 ### Machine Learning (Python)
 
-- Vehicle Market Price Predictor App ([Currently Private](https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App))
+- Neural Network From Scratch [Link]()
 - Neural Network Activation Functions [Link](https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions)
+- Recurrent Neural Network from Scratch [Link]()
 - Car MPG Predictions [Link](https://github.com/Eddie-Carrizales/Car-MPG-Predictions)
 - K-means Clustering for Tweet Analysis [Link](https://github.com/Eddie-Carrizales/Tweet-Clustering-Using-K-Means)
 - Wine Quality ML Predictions [Link](https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions)
+- Vehicle Market Price Predictor App ([Currently Private](https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App))
 
     </td>
   </tr>
@@ -63,6 +65,30 @@ These are my skills and a compiled list of some of my projects:
     </td>
     <td valign="top" width="50%">
 
+### Big Data Projects (PySpark & MapReduce)
+
+- Word Count of Named Entities in Text [Link]()
+- Search Engine for Movies Summaries Using TF-IDF [Link]()
+- Friend Recommendations Using Mutual Friends [Link]()
+- Naive Bayes Classifier Using Spark MapReduce [Link]()
+- Real-Time Structured Streaming and Visualization from Reddit [Link]()
+- Social Network Analytics Using GraphX/GraphFrame [Link]()
+- Recurrent Neural Network from Scratch Using MapReduce [Link]()
+
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+### Unity 3D (C#)
+
+- HomeMark: VR Multiplayer Movie Theater [Link]()
+- Mid-Air VR Piano Using Meta Quest ([Currently Private](https://github.com/Eddie-Carrizales/))
+- Implementing Travel, Manipulation, & System Control in VR [Link]()
+
+    </td>
+    <td valign="top" width="50%">
+
 ### Java
 
 - Centralized Math Server [Link](https://github.com/Eddie-Carrizales/Centralized-Math-Server)
@@ -74,15 +100,6 @@ These are my skills and a compiled list of some of my projects:
   <tr>
     <td valign="top" width="50%">
 
-### Python
-
-- 100 Days Python Course [Link](https://github.com/Eddie-Carrizales/100-Days-Python-Course)
-- My DSA Coding Problems [Link](https://github.com/Eddie-Carrizales/My-DSA-Coding-Problems)
-- FIFA Web Bot [Link](https://github.com/Eddie-Carrizales/FIFA-Web-Bot)
-
-    </td>
-    <td valign="top" width="50%">
-
 ### C++
 
 - Mini Cpp Projects [Link](https://github.com/Eddie-Carrizales/Mini-Cpp-Projects)
@@ -90,13 +107,6 @@ These are my skills and a compiled list of some of my projects:
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-
-### Unity 3D (C#)
-
-- Mid-Air VR Piano ([Currently Private](https://github.com/Eddie-Carrizales/))
-
-    </td>
     <td valign="top" width="50%">
 
 ### SQL
