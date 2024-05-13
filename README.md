@@ -31,7 +31,8 @@ These are my skills and a compiled list of some of my projects:
 
 - SensorPush iOS App [Link](https://github.com/Eddie-Carrizales/SensorPush-IOS-App)
 - Tipper iOS App [Link](https://github.com/Eddie-Carrizales/Tipper-IOS-App)
-- xCloud Storage Based App with Content <br /> Classification ([Currently Private](https://github.com/Eddie-Carrizales/xCloud))
+- xCloud: A Cloud Storage App with Content <br /> Classification ([Currently Private](https://github.com/Eddie-Carrizales/xCloud))
+- Vehicle Market Price Predictor App ([Currently Private](https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App))
 - Theater iOS App [Link](https://github.com/Eddie-Carrizales/Theater-IOS-App)
 - Amalger iOS App [Link](https://github.com/Eddie-Carrizales/Amalger-IOS-App)
 - Aperture iOS App [Link](https://github.com/Eddie-Carrizales/Aperture-IOS-App)
@@ -47,14 +48,13 @@ These are my skills and a compiled list of some of my projects:
 - Car MPG Predictions [Link](https://github.com/Eddie-Carrizales/Car-MPG-Predictions)
 - K-means Clustering for Tweet Analysis [Link](https://github.com/Eddie-Carrizales/Tweet-Clustering-Using-K-Means)
 - Wine Quality ML Predictions [Link](https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions)
-- Vehicle Market Price Predictor App ([Currently Private](https://github.com/Eddie-Carrizales/AR-Vehicle-Scanner-IOS-App))
 
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
 
-### Statistical Methods for Data Science (Python and R)
+### Statistical Methods (Python and R)
 
 - Monte Carlo Methods [Link](https://github.com/Eddie-Carrizales/Monte-Carlo-Methods)
 - Population Parameters, Statistics, and Graphical Statistics [Link](https://github.com/Eddie-Carrizales/Population-Parameters-and-Statistics-and-Graphical-Statistics)
@@ -67,13 +67,13 @@ These are my skills and a compiled list of some of my projects:
 
 ### Big Data Projects (PySpark & MapReduce)
 
-- Word Count of Named Entities in Text [Link]()
 - Search Engine for Movies Summaries Using TF-IDF [Link]()
+- Real-Time Data Streaming and Visualization from Reddit [Link]()
 - Friend Recommendations Using Mutual Friends [Link]()
 - Naive Bayes Classifier Using Spark MapReduce [Link]()
-- Real-Time Data Streaming and Visualization from Reddit [Link]()
 - Social Network Analytics Using GraphX/GraphFrame [Link]()
-- Recurrent Neural Network from Scratch Using MapReduce [Link]()
+- Word Count of Named Entities in Text [Link]()
+- Recurrent Neural Network from Scratch Using <br /> MapReduce [Link]()
 
     </td>
   </tr>
@@ -84,7 +84,7 @@ These are my skills and a compiled list of some of my projects:
 
 - HomeMark: VR Multiplayer Movie Theater [Link]()
 - Mid-Air VR Piano Using Meta Quest ([Currently Private](https://github.com/Eddie-Carrizales/))
-- Implementing Travel, Manipulation, and System Control in VR [Link]()
+- Travel, Manipulation, and System Control in VR [Link]()
 
     </td>
     <td valign="top" width="50%">
@@ -105,8 +105,6 @@ These are my skills and a compiled list of some of my projects:
 - Mini Cpp Projects [Link](https://github.com/Eddie-Carrizales/Mini-Cpp-Projects)
 
     </td>
-  </tr>
-  <tr>
     <td valign="top" width="50%">
 
 ### SQL
