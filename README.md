@@ -44,7 +44,7 @@ These are my skills and a compiled list of some of my projects:
 
 - Neural Network From Scratch [Link]()
 - Neural Network Activation Functions [Link](https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions)
-- Recurrent Neural Network from Scratch [Link]()
+- Recurrent Neural Network from Scratch [Link]() - pending
 - Car MPG Predictions [Link](https://github.com/Eddie-Carrizales/Car-MPG-Predictions)
 - K-means Clustering for Tweet Analysis [Link](https://github.com/Eddie-Carrizales/Tweet-Clustering-Using-K-Means)
 - Wine Quality ML Predictions [Link](https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions)
@@ -67,13 +67,13 @@ These are my skills and a compiled list of some of my projects:
 
 ### Big Data (PySpark & MapReduce)
 
-- Search Engine for Movies Summaries Using TF-IDF [Link]()
-- Real-Time Data Streaming and Visualization <br /> from Reddit [Link]()
-- Friend Recommendations Using Mutual Friends [Link]()
-- Naive Bayes Classifier Using Spark MapReduce [Link]()
-- Social Network Analytics Using GraphX/GraphFrame [Link]()
-- Word Count of Named Entities in Text [Link]()
-- Recurrent Neural Network from Scratch Using <br /> MapReduce [Link]()
+- Search Engine for Movies Summaries Using TF-IDF [Link]() - pending
+- Real-Time Data Streaming and Visualization <br /> from Reddit [Link]() - pending
+- Friend Recommendations Using Mutual Friends [Link]() - pending
+- Naive Bayes Classifier Using Spark MapReduce [Link]() - pending
+- Social Network Analytics Using GraphX/GraphFrame [Link]() - pending
+- Word Count of Named Entities in Text [Link]() - pending
+- Recurrent Neural Network from Scratch Using <br /> MapReduce [Link]() - pending
 
     </td>
   </tr>
@@ -82,7 +82,7 @@ These are my skills and a compiled list of some of my projects:
 
 ### Unity 3D (C#)
 
-- HomeMark: VR Multiplayer Movie Theater [Link]()
+- HomeMark: VR Multiplayer Movie Theater [Link]() - pending
 - Mid-Air VR Piano Using Meta Quest ([Currently Private](https://github.com/Eddie-Carrizales/))
 - Travel, Manipulation, and System Control in VR [Link]()
 
