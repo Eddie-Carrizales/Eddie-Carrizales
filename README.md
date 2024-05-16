@@ -67,12 +67,12 @@ These are my skills and a compiled list of some of my projects:
 
 ### Big Data (PySpark & MapReduce)
 
-- Search Engine for Movies Summaries Using TF-IDF [Link]() - pending
+- Search Engine for Movies Summaries Using TF-IDF [Link](https://github.com/Eddie-Carrizales/Search-Engine-for-Movie-Plot-Summaries)
 - Real-Time Data Streaming and Visualization <br /> from Reddit [Link]() - pending
 - Friend Recommendations Using Mutual Friends [Link]() - pending
 - Naive Bayes Classifier Using Spark MapReduce [Link]() - pending
 - Social Network Analytics Using GraphX/GraphFrame [Link]() - pending
-- Word Count of Named Entities in Text [Link]() - pending
+- Word Count of Named Entities in Text [Link](https://github.com/Eddie-Carrizales/Word-Count-for-Named-Entities)
 - Recurrent Neural Network from Scratch Using <br /> MapReduce [Link]() - pending
 
     </td>
@@ -82,7 +82,7 @@ These are my skills and a compiled list of some of my projects:
 
 ### Unity 3D (C#)
 
-- HomeMark: VR Multiplayer Movie Theater [Link]() - pending
+- HomeMark: VR Multiplayer Movie Theater [Link](https://github.com/karlos37/HomeMark)
 - Mid-Air VR Piano Using Meta Quest ([Currently Private](https://github.com/Eddie-Carrizales/))
 - Travel, Manipulation, and System Control in VR [Link]()
 
