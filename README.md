@@ -44,7 +44,7 @@ These are my skills and a compiled list of some of my projects:
 
 - Neural Network From Scratch [Link](https://github.com/Eddie-Carrizales/Neural-Network-From-Scratch)
 - Neural Network Activation Functions [Link](https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions)
-- Recurrent Neural Network from Scratch [Currently Private]()
+- Recurrent Neural Network from Scratch ([Currently Private]())
 - Car MPG Predictions [Link](https://github.com/Eddie-Carrizales/Car-MPG-Predictions)
 - K-means Clustering for Tweet Analysis [Link](https://github.com/Eddie-Carrizales/Tweet-Clustering-Using-K-Means)
 - Wine Quality ML Predictions [Link](https://github.com/Eddie-Carrizales/Wine-Quality-ML-Predictions)
