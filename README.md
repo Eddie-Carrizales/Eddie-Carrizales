@@ -69,7 +69,7 @@ These are my skills and a compiled list of some of my projects:
 
 - Search Engine for Movies Summaries Using TF-IDF [Link](https://github.com/Eddie-Carrizales/Search-Engine-for-Movie-Plot-Summaries)
 - Real-Time Data Streaming and Visualization <br /> from Reddit [Link](https://github.com/Eddie-Carrizales/Real-Time-Data-Streaming-and-Visualization-from-Reddit)
-- Friend Recommendations Using Mutual Friends [Link]() - pending
+- Friend Recommendations Using Mutual Friends [Link](https://github.com/Eddie-Carrizales/Friend-Recommendations-Using-Mutual-Friends)
 - Naive Bayes Classifier Using Spark MapReduce [Link]() - pending
 - Social Network Analytics Using GraphX/GraphFrame [Link](https://github.com/Eddie-Carrizales/Social-Network-Analytics-Using-GraphX-GraphFrame)
 - Word Count of Named Entities in Text [Link](https://github.com/Eddie-Carrizales/Word-Count-for-Named-Entities)
