@@ -73,7 +73,7 @@ These are my skills and a compiled list of some of my projects:
 - Naive Bayes Classifier Using Spark MapReduce [Link](https://github.com/Eddie-Carrizales/Naive-Bayes-Classifier-Using-Spark-MapReduce)
 - Social Network Analytics Using GraphX/GraphFrame [Link](https://github.com/Eddie-Carrizales/Social-Network-Analytics-Using-GraphX-GraphFrame)
 - Word Count of Named Entities in Text [Link](https://github.com/Eddie-Carrizales/Word-Count-for-Named-Entities)
-- Recurrent Neural Network from Scratch Using <br /> MapReduce [Link]() - pending
+- Recurrent Neural Network from Scratch Using <br /> MapReduce [Link](https://github.com/Eddie-Carrizales/Recurrent-Neural-Network-Using-Map-Reduce)
 
     </td>
   </tr>
