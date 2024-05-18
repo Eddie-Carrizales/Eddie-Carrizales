@@ -84,7 +84,7 @@ These are my skills and a compiled list of some of my projects:
 
 - HomeMark: VR Multiplayer Movie Theater [Link](https://github.com/karlos37/HomeMark)
 - Mid-Air VR Piano Using Meta Quest ([Currently Private](https://github.com/Eddie-Carrizales/)) -pending
-- Travel, Manipulation, and System Control in VR [Link]() - pending
+- Travel, Manipulation, and System Control in VR [Link](https://github.com/Eddie-Carrizales/Travel-Manipulation-and-System-Control-in-VR)
 
     </td>
     <td valign="top" width="50%">
