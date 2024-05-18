@@ -42,7 +42,7 @@ These are my skills and a compiled list of some of my projects:
 
 ### Machine Learning (Python)
 
-- Neural Network From Scratch [Link]()
+- Neural Network From Scratch [Link](https://github.com/Eddie-Carrizales/Neural-Network-From-Scratch)
 - Neural Network Activation Functions [Link](https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions)
 - Recurrent Neural Network from Scratch [Link]() - pending
 - Car MPG Predictions [Link](https://github.com/Eddie-Carrizales/Car-MPG-Predictions)
