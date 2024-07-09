@@ -91,7 +91,7 @@ These are my skills and a compiled list of some of my projects:
 
 ### Java
 
-- MathSync Server [Link](https://github.com/Eddie-Carrizales/Centralized-Math-Server)
+- Centralized MathSync Server [Link](https://github.com/Eddie-Carrizales/Centralized-Math-Server)
 - Threads and Semaphores DMV Simulation [Link](https://github.com/Eddie-Carrizales/Threads-and-Semaphores-DMV-Simulation)
 - Mini Java Projects [Link](https://github.com/Eddie-Carrizales/Mini-Java-Projects)
 
